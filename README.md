@@ -2,10 +2,10 @@
 
 ## Get in Touch
 
-- **Email:** [ver@vip.qq.com](mailto:ver@vip.qq.com)
+- **Email:** [xuanwuguo@gmail.com](mailto:xuanwuguo@gmail.com)
 - **Telegram:** [owo233](https://t.me/owo233)
 
-Feel free to reach out if you have any questions, want to collaborate on a project, or just want to say hi!
+If you have any questions, want to collaborate on a project, or just want to say hello, feel free to contact me!
 
 ## GitHub Stats
 
