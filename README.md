@@ -3,7 +3,7 @@
 ## Get in Touch
 
 - **Email:** [xuanwuguo@gmail.com](mailto:xuanwuguo@gmail.com)
-- **Telegram:** [owo233](https://t.me/owo233)
+- **Telegram:** [@sunsiyu](https://t.me/sunsiyu)
 
 If you have any questions, want to collaborate on a project, or just want to say hello, feel free to contact me!
 
