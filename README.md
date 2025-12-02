@@ -1,18 +1,14 @@
-# Hi there, I'm [callng](https://github.com/callng)! 👋
+## I am callng(owo233)
 
-## Get in Touch
+是一名“刚”接触编程语言的萌新，喜欢的编程语言：Kotlin PHP Java
 
-- **Email:** [xuanwuguo@gmail.com](mailto:xuanwuguo@gmail.com)
-- **Telegram:** [@sunsiyu](https://t.me/sunsiyu)
+喜欢交朋友，可以互相关注~
 
-If you have any questions, want to collaborate on a project, or just want to say hello, feel free to contact me!
+邮箱：xuanwuguo@gmail.com
 
-## GitHub Stats
+### Github Stats
 
-![callng's GitHub stats](https://github-readme-stats.vercel.app/api?username=callng&show_icons=true&theme=radical)
+![Fuqiuluo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=callng&theme=github)
+![Top Lngs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callng&theme=github)
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callng&layout=compact&theme=radical)
-
-Thanks for visiting my profile!
+愿以不死的信心 紧守心中那点放任
