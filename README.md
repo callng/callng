@@ -4,11 +4,11 @@
 
 喜欢交朋友，可以互相关注~
 
-邮箱：zhanlan127@gmail.com
+邮箱：atololv@gmail.com
 
 ### Github Stats
 
 ![Fuqiuluo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=callng&theme=github)
 ![Top Lngs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=callng&theme=github)
 
-愿以不死的信心 紧守心中那点放任.
+早眠晏起从疎懒，醉舞狂歌任性灵.
